@@ -8,7 +8,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 const useStyles = makeStyles(theme => ({
   root: {
-    width: '100%',
+    width: '90%',
   },
   heading: {
     fontSize: theme.typography.pxToRem(15),
@@ -28,12 +28,13 @@ export default function SimpleExpansionPanel() {
           aria-controls="panel4-content"
           id="panel4-header"
         >
-          <Typography className={classes.heading}>Miscellaneous</Typography>
+          <Typography className={classes.heading}><strong>Miscellaneous</strong></Typography>
         </ExpansionPanelSummary>
         <ExpansionPanelDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex,
-            sit amet blandit leo lobortis eget.
+            <div>I have a driving <strong>license</strong> and a <strong>car</strong>.</div>
+            <div>I love cooking.</div>
+            <div>In my youth, I was playing the lead guitar in a rock band. Yup.</div>
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>

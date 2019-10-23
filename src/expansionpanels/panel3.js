@@ -32,7 +32,7 @@ export default function SimpleExpansionPanel() {
         </ExpansionPanelSummary>
         <ExpansionPanelDetails>
           <Typography>
-            A year after high school, I decided to try <strong>engineering</strong> at the University of Liège. I then spent a few years studying <strong>electricity, electronics and mechanics</strong>. Just before getting my bachelor, I decided to head towards web development to carry out a personal project. I fell in love with it.
+            A year after high school, I decided to try <strong>engineering</strong> at the University of Liège. Just before getting my bachelor, I decided to head towards web development to carry out a personal project. I fell in love with it.
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>

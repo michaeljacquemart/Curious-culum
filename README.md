@@ -1,3 +1,12 @@
+## My curriculum vitae
+
+# The head animation is an adaptation of the following codepen (by Marjo Sobrecaray) 
+Moving Head : https://codepen.io/maaarj/pen/vmYPqm?editors=0010
+# technological stack
+- material-ui
+- create-react-app
+
+## Hereafter, Create React App's automatically generated README.md
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

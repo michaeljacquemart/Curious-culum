@@ -8,7 +8,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 const useStyles = makeStyles(theme => ({
   root: {
-    width: '90%',
+    width: '80%',
   },
   heading: {
     fontSize: theme.typography.pxToRem(15),
@@ -35,6 +35,8 @@ export default function SimpleExpansionPanel() {
             <div>I have a driving <strong>license</strong> and a <strong>car</strong>.</div>
             <div>I love cooking.</div>
             <div>In my youth, I played the lead guitar in a rock band. Yup.</div>
+            <div><strong>I dont like cats</strong>. They smell funny.</div>
+            <div>Check the <strong>pdf version</strong> if you want to know more about me !</div>
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>

@@ -36,7 +36,6 @@ export default function SimpleExpansionPanel() {
             <div>I love cooking.</div>
             <div>In my youth, I played the lead guitar in a rock band. Yup.</div>
             <div><strong>I dont like cats</strong>. They smell funny.</div>
-            <div>Check the <strong>pdf version</strong> if you want to know more about me !</div>
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>

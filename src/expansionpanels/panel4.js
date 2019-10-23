@@ -34,7 +34,7 @@ export default function SimpleExpansionPanel() {
           <Typography>
             <div>I have a driving <strong>license</strong> and a <strong>car</strong>.</div>
             <div>I love cooking.</div>
-            <div>In my youth, I was playing the lead guitar in a rock band. Yup.</div>
+            <div>In my youth, I played the lead guitar in a rock band. Yup.</div>
           </Typography>
         </ExpansionPanelDetails>
       </ExpansionPanel>

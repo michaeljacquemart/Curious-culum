@@ -36,7 +36,7 @@ export default function SimpleExpansionPanel() {
             <a href="https://api.badgr.io/public/assertions/3TC7z_4uSIWaP-2RYtyVOw"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/Dz4Akeq2R-qY4ZMU13fxwg/image?type=png" /></a><p class="badgr-badge-name">HTML 5</p>
           </div>
           <div className="badge">
-            <a href="https://api.badgr.io/public/assertions/byISJ1yLTPiEl3ZzioMWPQ"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/3Sjhj2AeRdmdSGb_i16oaA/image?type=png" /></a><p class="badgr-badge-name">CSS3 - level 2</p>
+            <a href="https://api.badgr.io/public/assertions/byISJ1yLTPiEl3ZzioMWPQ"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/3Sjhj2AeRdmdSGb_i16oaA/image?type=png" /></a><p class="badgr-badge-name">CSS3</p>
           </div>
           <div className="badge">
             <a href="https://api.badgr.io/public/assertions/fBd5_IYURZSq5aq3IKHDVA"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/IL4mQSyyRyumKbiIw4059g/image?type=png" /></a><p class="badgr-badge-name">Sass</p>
@@ -51,7 +51,7 @@ export default function SimpleExpansionPanel() {
             <a href="https://api.badgr.io/public/assertions/Ru3N98QXR0CGK2rE9RGzIw"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/wmsi6BVQQdun7xp23zQUtA/image?type=png" /></a><p class="badgr-badge-name">Copywriter</p>
           </div>
           <div className="badge">
-            <a href="https://api.badgr.io/public/assertions/ZoqVWbZ8TfyFGjawDakd2Q"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/Xc7_cJ9dTVKj6-ueu-ujLg/image?type=png" /></a><p class="badgr-badge-name">GUI Prototyping</p>
+            <a href="https://api.badgr.io/public/assertions/ZoqVWbZ8TfyFGjawDakd2Q"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/Xc7_cJ9dTVKj6-ueu-ujLg/image?type=png" /></a><p class="badgr-badge-name">Prototyping</p>
           </div>
           <div className="badge">
             <a href="https://api.badgr.io/public/assertions/DvbxX-R0QBGoTfmWC4-YBA"><img alt='badge' width="40px" height="40px" src="https://api.badgr.io/public/badges/V_adxKUDSJutiOGpkGfiXQ/image?type=png" /></a><p class="badgr-badge-name">CRUD</p>

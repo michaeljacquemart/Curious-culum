@@ -1,0 +1,153 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300);
+@import url(https://fonts.googleapis.com/css?family=Squada+One);
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+.grid2x2 {
+	margin-top: 10%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	height: 90%;
+}
+
+.box {
+	display: flex;
+	flex-basis: calc(50% - 70px);
+	justify-content: center;
+	flex-direction: column;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin: 10px;
+	height: 10%;
+}
+
+.box>div {
+	margin: auto;
+}
+
+.header {
+	margin-top: 10px;
+	text-align: center;
+}
+
+#name {
+	font-family: 'Open Sans', sans-serif;
+	color: #1F1B1E;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 60px;
+	font-weight: 800;
+	letter-spacing: -3px;
+	line-height: 1;
+	text-shadow: #EDEDED 3px 2px 0;
+	position: relative;
+}
+
+#name:after {
+	content: "dreamdealer";
+	position: absolute;
+	left: 8px;
+	top: 32px;
+}
+
+#name:after {
+	/*background: url(https://subtlepatterns.com/patterns/crossed_stripes.png) repeat;*/
+	background-image: -webkit-linear-gradient(left top, transparent 0%, transparent 25%, #555 25%, #555 50%, transparent 50%, transparent 75%, #555 75%);
+	background-size: 4px 4px;
+	-webkit-text-fill-color: transparent;
+	z-index: -5;
+	display: block;
+	text-shadow: none;
+}
+
+#description {
+	font-size: 0.3em;
+	text-shadow: none;
+	color: #1F1B1E;
+}
+
+.github-corner:hover .octo-arm {
+	animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+	0%,
+	100% {
+		transform: rotate(0)
+	}
+	20%,
+	60% {
+		transform: rotate(-25deg)
+	}
+	40%,
+	80% {
+		transform: rotate(10deg)
+	}
+}
+
+@media (max-width: 500px) {
+	.github-corner:hover .octo-arm {
+		animation: none
+	}
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out
+	}
+}
+
+.pdf {
+	position: relative;
+	bottom: -80%;
+	color: #fff;
+	text-decoration: none;
+}
+
+.badge {
+	text-align: center;
+	display: inline-block;
+	margin: 1%;
+}
+
+.rotate-button {
+	display: inline-block;
+	width: 170px;
+	height: 30px;
+	text-align: center;
+	transform-style: preserve-3d;
+	cursor: pointer;
+	transition: all .3s ease;
+	font-family: 'arial'
+}
+
+.rotate-button .rotate-button-face,
+.rotate-button .rotate-button-face-back {
+	position: absolute;
+	display: block;
+	border: 1px solid #35495e;
+	transition: all .5s;
+	color: #35495e;
+	text-decoration: none;
+	width: 170px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 4px;
+}
+
+.rotate-button .rotate-button-face {
+	background-color: #e8be6b;
+	transform: translateZ(15px);
+}
+
+.rotate-button .rotate-button-face-back {
+	background-color: #35495e;
+	color: #42b883;
+	border: 1px solid #42b883;
+	transform: rotateX(-90deg) translateZ(15px);
+}
+
+.rotate-button:hover {
+	transform: rotateX(90deg);
+}

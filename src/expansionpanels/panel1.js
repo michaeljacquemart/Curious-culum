@@ -34,31 +34,31 @@ export default function SimpleExpansionPanel() {
           <Typography>
           <div className="mybadges">  
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/KrAMkUYpSLemm2bkSEDvBg"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/bogZnt4GSzeLmG-_JwaOAg/image?type=png" /></a><p class="badgr-badge-name">Git</p>
+              <a href="https://api.badgr.io/public/assertions/KrAMkUYpSLemm2bkSEDvBg"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/bogZnt4GSzeLmG-_JwaOAg/image?type=png" /></a><p class="badgr-badge-name">Git</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/RpRP9mejTBWccfsxIYt80w"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/s5KarsEiSZCfoEEJdU6K4w/image?type=png" /></a><p class="badgr-badge-name">JS/React</p>
+              <a href="https://api.badgr.io/public/assertions/RpRP9mejTBWccfsxIYt80w"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/s5KarsEiSZCfoEEJdU6K4w/image?type=png" /></a><p class="badgr-badge-name">JS/React</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/mytGQ1pwStyIuV9ISuww1Q"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/8wTiHCxVRciArgPhnK5CHg/image?type=png" /></a><p class="badgr-badge-name">Linux</p>
+              <a href="https://api.badgr.io/public/assertions/mytGQ1pwStyIuV9ISuww1Q"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/8wTiHCxVRciArgPhnK5CHg/image?type=png" /></a><p class="badgr-badge-name">Linux</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/q1AVZK-OSnyyU5oksjWV6Q"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/l1s363rdRk26ELrEg-mFCQ/image?type=png" /></a><p class="badgr-badge-name">Node.js</p>
+              <a href="https://api.badgr.io/public/assertions/q1AVZK-OSnyyU5oksjWV6Q"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/l1s363rdRk26ELrEg-mFCQ/image?type=png" /></a><p class="badgr-badge-name">Node.js</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/CzKUVZYBS_2DMreaxvd1Bg"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/OgwUUcD9QBaf64nt2bVm5A/image?type=png" /></a><p class="badgr-badge-name">Javascript</p>
+              <a href="https://api.badgr.io/public/assertions/CzKUVZYBS_2DMreaxvd1Bg"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/OgwUUcD9QBaf64nt2bVm5A/image?type=png" /></a><p class="badgr-badge-name">Javascript</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/53BhP5K4TFqrwaHQD__NcA"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/assertions/53BhP5K4TFqrwaHQD__NcA/image" /></a><p class="badgr-badge-name">Terminal</p>
+              <a href="https://api.badgr.io/public/assertions/53BhP5K4TFqrwaHQD__NcA"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/assertions/53BhP5K4TFqrwaHQD__NcA/image" /></a><p class="badgr-badge-name">Terminal</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/wh4QbodkQeystR6JllWe6Q"><img alt='badge' width="70px" height="70px" src="https://media.badgr.io/uploads/badges/assertion-wh4QbodkQeystR6JllWe6Q.png" /></a><p class="badgr-badge-name">Web APIs</p>
+              <a href="https://api.badgr.io/public/assertions/wh4QbodkQeystR6JllWe6Q"><img alt='badge' width="60px" height="60px" src="https://media.badgr.io/uploads/badges/assertion-wh4QbodkQeystR6JllWe6Q.png" /></a><p class="badgr-badge-name">Web APIs</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/5PgmOLdBRpSQyDqv36DUuQ"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/assertions/5PgmOLdBRpSQyDqv36DUuQ/image" /></a><p class="badgr-badge-name">Project Manager</p>
+              <a href="https://api.badgr.io/public/assertions/5PgmOLdBRpSQyDqv36DUuQ"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/assertions/5PgmOLdBRpSQyDqv36DUuQ/image" /></a><p class="badgr-badge-name">Project Manager</p>
             </div>
             <div className="badge">
-              <a href="https://api.badgr.io/public/assertions/i2RggksvTiiwqvoAFg1mtg"><img alt='badge' width="70px" height="70px" src="https://api.badgr.io/public/badges/3g--A5sMSquew2fiNfbdsQ/image?type=png" /></a><p class="badgr-badge-name">Public Speaker</p>
+              <a href="https://api.badgr.io/public/assertions/i2RggksvTiiwqvoAFg1mtg"><img alt='badge' width="60px" height="60px" src="https://api.badgr.io/public/badges/3g--A5sMSquew2fiNfbdsQ/image?type=png" /></a><p class="badgr-badge-name">Public Speaker</p>
             </div>
           </div>
           </Typography>

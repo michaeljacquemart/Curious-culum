@@ -1,5 +1,7 @@
 # My curriculum vitae ("Curious-culum")
 
+Live demo : https://michaeljacquemart.netlify.com/
+
 ## The head animation is an adaptation of the following codepen (by Marjo Sobrecaray) 
 Moving Head : https://codepen.io/maaarj/pen/vmYPqm?editors=0010
 ## technological stack
